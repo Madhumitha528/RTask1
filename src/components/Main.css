@@ -1,0 +1,8 @@
+.vertical-line {
+    border-left: 2px dashed #000;
+    height: 100%;
+    margin: 0 auto;
+}
+.container {
+    background-color: rgba(240, 243, 248, 1);
+}
